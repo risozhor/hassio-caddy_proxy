@@ -2,7 +2,7 @@
     "name": "Caddy Proxy",
     "version": "1.0.4",
     "slug": "caddy_proxy",
-    "description": "Caddy Proxy for multiple VHOSTS with ssl",
+    "description": "Proxy for VHOSTS with ssl (from smarty.ninja)",
     "url": "https://github.com/risozhor/hassio-caddy_proxy/tree/master/caddy_proxy",
     "startup": "system",
     "boot": "auto",
