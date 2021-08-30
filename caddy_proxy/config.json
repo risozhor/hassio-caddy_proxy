@@ -3,10 +3,10 @@
     "version": "1.0.4",
     "slug": "caddy_proxy",
     "description": "Proxy for VHOSTS with ssl (from smarty.ninja)",
-    "url": "https://github.com/risozhor/hassio-caddy_proxy/tree/main/caddy_proxy",
+    "url": "https://github.com/bestlibre/hassio-addons/tree/master/caddy_proxy",
     "startup": "system",
     "boot": "auto",
-    "image": "risozhor/{arch}-caddy-proxy",
+    "image": "bestlibre/{arch}-caddy-proxy",
     "arch": ["armv7", "armhf", "amd64", "aarch64", "i386"],
     "options": {
 	"homeassistant": "homeassistant.domain.tld",
